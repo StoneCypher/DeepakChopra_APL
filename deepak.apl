@@ -1,3 +1,6 @@
+⍝   Deepak Chopra nonsense generator in APL
+⍝   Found at https://github.com/StoneCypher/DeepakChopra_APL/
+⍝
 ⍝   You can try this at http://tryapl.org/
 ⍝   I can not explain how much I suddenly love this crypto-language
 

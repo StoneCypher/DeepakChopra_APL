@@ -11,8 +11,8 @@ Middles    ← 'nurtures an '        'projects onto '      'imparts reality to '
 Qualifiers ← 'abundance of '       'the barrier of '     'self-righteous '     'potential '
 Finishes   ← 'marvel.'             'choices.'            'creativity.'         'actions.'
 
-rf     ← {(?⍴⍵)⊃⍵}
-erf    ← {rf ¨ ⍵}
+rf     ← { (?⍴⍵) ⊃⍵ } 
+erf    ← { rf ¨ ⍵ }
 
 deepak ← {erf Starts Middles Qualifiers Finishes}
 

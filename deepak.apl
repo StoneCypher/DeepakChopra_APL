@@ -3,6 +3,9 @@
 ⍝
 ⍝   You can try this at http://tryapl.org/
 ⍝   I can not explain how much I suddenly love this crypto-language
+⍝
+⍝   Actually taught GitHub about the language just to get it to recognize that I use it :D
+⍝    ... except who has the time for hobby languages :(
 
 
 

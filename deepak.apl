@@ -9,6 +9,8 @@
 
 
 
+
+
 ⍝   Table of string fragments from which to construct
 ⍝   Canonically this should probably be a matrix, but I'm new
 
@@ -19,9 +21,13 @@ Finishes   ← 'marvel.'             'choices.'            'creativity.'        
 
 
 
+
+
 ⍝   Random From returns one random element from an array
 
 rf     ← { (?⍴⍵) ⊃⍵ } 
+
+
 
 
 
@@ -32,9 +38,13 @@ erf    ← { rf ¨ ⍵ }
 
 
 
+
+
 ⍝   Deepak returns erf of the string table above
 
 deepak ← {erf Starts Middles Qualifiers Finishes}
+
+
 
 
 
